@@ -1,2 +1,2 @@
 Add naming convention
-Add data with styyle
+Add data with style
